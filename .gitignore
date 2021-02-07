@@ -1,3 +1,7 @@
+# Directories+subs
+archive
+src/__pycache__
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -110,9 +114,8 @@ ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
-.spyderproject
-.spyproject
+# IDE project settings
+.vscode
 
 # Rope project settings
 .ropeproject
